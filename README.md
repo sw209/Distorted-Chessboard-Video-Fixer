@@ -8,7 +8,7 @@
 
 ```text
 .
-├─ camera_calibration_hw3.py
+├─ main.py
 ├─ calibration_video.mp4
 ├─ undistorted_images/
 │  ├─ undistorted_00.jpg
