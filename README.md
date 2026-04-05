@@ -87,9 +87,7 @@ RMSE        : 0.457165
 
 ## 결과 이미지
 
-
-```markdown
 ![Undistorted](undistorted_00.jpg)
 ![Undistorted](undistorted_09.jpg)
-```
+
 
